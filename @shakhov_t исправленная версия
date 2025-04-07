@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pavel Durov",
+    "description": "Основатель Telegram и инициатор проекта Telegram Open Network (TON).",
+    "walletAddress": "UQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinf4K",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg/640px-TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Vudi Kingyru",
+    "description": "Инвестор и энтузиаст блокчейна TON.",
+    "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj",
+    "imageUrl": "https://www.example.com/path_to_vudi_kingyru_image.jpg"
+  },
+  {
+    "name": "Andrey Rogozov",
+    "description": "Вице-президент по социальным платформам в VK.",
+    "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz",
+    "imageUrl": "https://www.theorg.com/org/vk/org-chart/andrey-rogozov"
+  },
+  {
+    "name": "Alena Shmalko",
+    "description": "Руководитель экосистемы в TON Foundation.",
+    "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN",
+    "imageUrl": "https://www.linkedin.com/posts/r-founders_alena-s-the-buzz-around-ton-alena-shmalko-activity-7226563318323281920-R87Q"
+  },
+  {
+    "name": "Michele Inetovsky",
+    "description": "Основатель swap.coffee, агрегатора децентрализованных обменов.",
+    "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF",
+    "imageUrl": "https://tonresear.ch/t/swap-coffee-dex-aggregator-one-stop-shop-app/18247"
+  },
+  {
+    "name": "Manuel Stotz",
+    "description": "Инвестор и основатель Kingsway Capital.",
+    "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV",
+    "imageUrl": "https://omr.com/de/daily/manuel-stotz-kingsway-capital-omr-podcast-2023/"
+  },
+  {
+    "name": "Aleksandr Shepelev",
+    "description": "Современный фотограф и художник.",
+    "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK",
+    "imageUrl": "https://www.artmajeur.com/aleksandr-shepelev"
+  }
+]
